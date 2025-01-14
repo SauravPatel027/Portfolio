@@ -29,7 +29,7 @@ const Footer = () => (
             className="w-[24px] h-[24px] object-contain"
           />
           <span className="font-normal text-[16px] text-white">
-            <a href="www.google.com">Resume</a>
+            <a href="https://drive.google.com/file/d/1v-mNfxuhxJqy9h1KgjH11ocqi0xpH1Mm/view?usp=sharing">Resume</a>
           </span>
         </button>
       </div>
