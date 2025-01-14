@@ -3,31 +3,31 @@ export const exploreWorlds = [
     id: 'world-1',
     imgUrl: '/planet-01.png',
     title: 'Career Mentorship Portal',
-    link: 'google.com',
+    link: 'https://bswsaurav.netlify.app/',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
     title: 'Mathematics quiz Website',
-    link: 'google.com',
+    link: 'https://sauravpatel027.github.io/Quizz/',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
     title: 'Mathematics Research Collab',
-    link: 'google.com',
+    link: 'https://drive.google.com/file/d/1v-mNfxuhxJqy9h1KgjH11ocqi0xpH1Mm/view?usp=sharing',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
     title: 'Banking system using hashing',
-    link: 'google.com',
+    link: 'https://drive.google.com/file/d/1v-mNfxuhxJqy9h1KgjH11ocqi0xpH1Mm/view?usp=sharing',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
     title: 'Potato Disease Classification',
-    link: 'google.com',
+    link: 'https://github.com/SauravPatel027/Potato-Disease-Classification/tree/main',
   },
 ];
 
