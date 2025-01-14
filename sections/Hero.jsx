@@ -16,12 +16,17 @@ const Hero = () => (
     >
       <div className="flex justify-center items-center flex-col relative z-10">
       <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
-
-  <div className={`${styles.heroaText} absolute`}></div>
-  <h1 className={styles.heroHeading}>v</h1>
-  <h1 className={`${styles.heroHeading} ml-[220px]`}>P</h1>
-  <h1 className={styles.heroHeading}>tel</h1>
-</motion.h1>
+          Saurav's
+        </motion.h1>
+        <motion.div
+          variants={textVariant(1.2)}
+          className="flex flex-row justify-center items-center"
+        >
+          <h1 className={styles.heroHeading}>Ma</h1>
+          <div className={styles.heroDText} />
+          
+          <h1 className={styles.heroHeading}>ness</h1>
+        </motion.div>
 
       </div>
 
